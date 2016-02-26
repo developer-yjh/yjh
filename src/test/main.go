@@ -8,6 +8,8 @@ func main() {
 	msg := "我们都是中国人呀, 中国龙!"
 	PrintMessage(msg)
 
+	PrintMessage("test 33")
+
 	msg = "外国人的干活"
 	PrintMessage(msg)
 
